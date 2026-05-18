@@ -13,4 +13,6 @@ class Persona(
 fun main() {
     val p = Persona("Juan", "Pérez", 30)
     println(p)  // nos dice el nombre, apellido y la edad
+
+    
 }
